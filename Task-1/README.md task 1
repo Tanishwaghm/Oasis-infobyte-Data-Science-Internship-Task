@@ -1,0 +1,19 @@
+Iris Flower Classification 
+
+Objective:
+To classify Iris flowers into three species — Setosa, Versicolor, and Virginica — based on sepal and petal measurements.
+
+Key Steps:
+
+Loaded and explored the Iris dataset
+
+Performed data preprocessing and visualization
+
+Split data into training and testing sets
+
+Built a machine learning classification model
+
+Evaluated model performance using accuracy
+
+Outcome:
+Successfully trained a classification model capable of predicting the Iris flower species with high accuracy.
