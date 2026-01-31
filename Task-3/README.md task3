@@ -1,0 +1,19 @@
+Car Price Prediction 
+
+Objective:
+To predict the price of a car based on various features such as brand, year, mileage, fuel type, and transmission.
+
+Key Steps:
+
+Data preprocessing and feature selection
+
+Handled categorical and numerical variables
+
+Split dataset into training and testing sets
+
+Built a regression model
+
+Evaluated model performance using error metrics
+
+Outcome:
+Developed a regression model capable of estimating car prices with reasonable accuracy based on given features.
